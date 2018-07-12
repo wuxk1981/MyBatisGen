@@ -1,5 +1,5 @@
 /**
- * <p>Description: [功能描述]</p>
+ * <p>Description: [测试类]</p>
  * Created on 2018/7/12 16:23
  *
  * @author <a href="mailto: wuxinkuan@camelotchina.com">吴心宽</a>
@@ -8,6 +8,6 @@
  */
 public class TestDemo {
     public void printWorld() {
-        System.out.println("--------------------");
+        System.out.println("-------测试类-------------");
     }
 }
